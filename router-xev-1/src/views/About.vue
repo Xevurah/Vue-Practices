@@ -1,14 +1,14 @@
 <template>
   <div class="about">
-    <Titulo texto="Pagina de about"/>
+    <Titulo texto="Pagina de about" />
   </div>
 </template>
 
 <script>
-import Titulo from '../components/Titulo.vue'
+import Titulo from "../components/Titulo.vue";
 export default {
-  components:{
-    Titulo
-  }
-}
+  components: {
+    Titulo,
+  },
+};
 </script>
